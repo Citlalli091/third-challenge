@@ -36,4 +36,6 @@ THEN the password is either displayed in an alert or written to the page
 ```
 ## Sceenshots
 [generated password](C:\Users\myspa\code\homework\third-challenge\images\genPasswordSS.png)
+
 ## Links
+Deployed site: https://citlalli091.github.io/third-challenge/
